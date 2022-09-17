@@ -4,7 +4,7 @@
 
 Hi, On behalf of the Nir03CodersBD I would like to welcome you to my website. I am an experienced Web design & Web Developer with excellent knowledge of HTML5, CSS, JAVASCRIPT, SQL, PHP and BOOTSTRAP, Jquery, WordPress and Elementor page builder, WP Bakery page builder, Divi builder also professional graphics designer. I have over 4 year experienced on Web Design & Web Development. My design is simple & fresh. My coding is W3C validated, fresh, SEO optimized and also hand coded. I work flexibly with clients to fulfill their design & development needs. Work with me and create a amazing website that you are gonna be proud of You. Use my work in your Business, Portfolio, Agency, eCommerce & News Portal and Graphics Design etc. I provide the best quality of work in my skills. I always try to complete every project within very short time in cheaper rate. I am a skilled, hard-worker, good learner & reliable person. Trust me with your graphics needs, Web design, Web develops, WordPress develops, HTML5, CSS and Graphics design, and you won’t be disappointed.
 
-Skills: HTML / CSS / SQL / BOOTSTRAP / PHP /
+Skills: HTML / CSS / SQL / BOOTSTRAP / PHP / SASS / PYTHON
 
 - 🔭 I’m currently working on Marketplace 
 - 🌱 I’m currently learning Javascript 
