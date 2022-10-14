@@ -1,4 +1,4 @@
-![Web Design & Web Developer](https://pbs.twimg.com/profile_banners/1184707059851251714/1620212210/600x200)
+![Web Designer & Web Developer](https://pbs.twimg.com/profile_banners/1184707059851251714/1620212210/600x200)
 # Hi there 👋, I'm Nirongkush Chiran
 ## Web Designer & Web Developer
 
